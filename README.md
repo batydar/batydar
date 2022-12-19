@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @batydar
 - 👀 I’m interested in game designing, pixel art, data science (I think) and a.i
+- 💾 I'm currently knowing python3, python, lua(especially löve), a little bit c# (especially unity)
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me kulabatuhan3@gmail.com
 

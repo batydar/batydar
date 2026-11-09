@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @batydar
-- 👀 I’m interested in game designing, pixel art, data science (I think)
-- 💾 I'm currently knowing python3, python, lua(especially löve), a little bit unity, JavaScript, gamemaker language
-- 🌱 I’m currently learning assembly
-- 📫 How to reach me kulabatuhan3@gmail.com
+<h1 align="center">⚡ Merhaba, Ben Mehmet Batuhan Kula (@batydar)</h1>
 
-<!---
-batydar/batydar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="center">Geliştirici | Bağımsız Oyun Tasarımcısı</h3>
+
+<p align="center">
+Modüler backend sistemleri ve 3D oyun dünyaları geliştiriyorum. Spagetti koddan kaçınarak temiz mimari, "first-principles" analitiği ve birbirinden izole sistemler kurmaya odaklanıyorum.
+</p>
+
+---
+
+### 🚀 Neler Üzerinde Çalışıyorum?
+
+- **Modüler Discord Botu:** Node.js tabanlı; RPG zindanları, crafting ve kapalı ekonomi dinamiklerine sahip, parçalara ayrılmış genişletilebilir ekosistem.
+- **3D Oyun Geliştirme:** Yapay zeka entegrasyonlu iş akışıyla (Google Antigravity) Godot Engine üzerinde 3D FPS projeleri.
+- **Sıra Tabanlı 3D Kart Oyunu:** Babylon.js ve Vanilla JS ile element/güçlendirme mekaniklerine dayalı taktiksel motor.
+- **Web Entegreli Satranç:** Express ve Socket.io ile çalışan, FEN notasyonu işleme yeteneğine sahip interaktif web satrancı.
+
+### 🛠️ Teknoloji Yığınım
+
+- **Programlama:** JavaScript (Node.js, Express, Socket.io, Vite), C, GML
+- **Oyun Motorları:** Godot Engine, Babylon.js, GameMaker Studio 2, Unreal Engine 5
+- **Sistem & Mimari:** Linux VPS (Bitvise SSH/SFTP), Merkeziyetsiz Komut İşleyiciler (Command Handlers), Local JSON Veritabanı İzolasyonu
+
+---
+<p align="center">
+<i>Detaylı repo geçmişim ve aktif sistem güncellemelerim için aşağıdaki projelere göz atabilirsiniz.</i>
+</p>

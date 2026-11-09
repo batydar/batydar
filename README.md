@@ -3,7 +3,7 @@
 <h3 align="center">Geliştirici | Bağımsız Oyun Tasarımcısı</h3>
 
 <p align="center">
-Modüler backend sistemleri ve 3D oyun dünyaları geliştiriyorum. Spagetti koddan kaçınarak temiz mimari, "first-principles" analitiği ve birbirinden izole sistemler kurmaya odaklanıyorum.
+Modüler backend sistemleri ve 2D oyun dünyaları geliştiriyorum. Spagetti koddan kaçınarak temiz mimari, "first-principles" analitiği ve birbirinden izole sistemler kurmaya odaklanıyorum.
 </p>
 
 ---
